@@ -20,3 +20,10 @@ Front :
   - Favoris : 
        - Liste des repositories mises en favoris
 - Le site doit contenir une navbar et un footer (Carte Blanche sur le contenu)
+
+
+Refactor : 
+
+- Changer la position du router view et des élements 
+- Revoir le front
+- Configurer axios 
